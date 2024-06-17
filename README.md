@@ -7,6 +7,25 @@
 
 ![teaser](./resources/github_readme/teaser.gif)
 
+## Fine-tuned Lp3D for 3D Reconstruction
+
+
+![0000_0](https://github.com/Mrkomiljon/VOODOO3D-official/assets/92161283/4c82aa93-d6bc-4d6e-a845-f899f9467b58)
+![0000_1](https://github.com/Mrkomiljon/VOODOO3D-official/assets/92161283/bc0ff381-db9e-4c32-9af5-37b5a3f94eca)
+![0000_2](https://github.com/Mrkomiljon/VOODOO3D-official/assets/92161283/e537f6bd-f5ec-4c4a-b1ef-feeba64742a4)
+
+
+## 3D Head Reenactment
+
+https://github.com/Mrkomiljon/VOODOO3D-official/assets/92161283/055af138-7c12-4ada-83f1-c0b155129e49
+
+
+
+
+Uploading output.mp4…
+
+
+
 ## Overview
 This is the official implementation of VOODOO 3D: a high-fidelity 3D-aware one-shot head reenactment technique. Our method transfers the expression of a driver to a source and produces view consistent renderings for holographic displays.
 
