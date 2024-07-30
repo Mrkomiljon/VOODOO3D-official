@@ -17,12 +17,7 @@
 
 ## 3D Head Reenactment
 
-https://github.com/Mrkomiljon/VOODOO3D-official/assets/92161283/055af138-7c12-4ada-83f1-c0b155129e49
 
-
-
-
-Uploading output.mp4…
 
 
 
